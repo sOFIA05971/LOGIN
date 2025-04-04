@@ -74,6 +74,7 @@
             // 
             this.tbxcontraseña.Location = new System.Drawing.Point(194, 217);
             this.tbxcontraseña.Name = "tbxcontraseña";
+            this.tbxcontraseña.PasswordChar = '*';
             this.tbxcontraseña.Size = new System.Drawing.Size(100, 20);
             this.tbxcontraseña.TabIndex = 4;
             // 
